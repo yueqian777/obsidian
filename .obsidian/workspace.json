@@ -100,25 +100,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a70b774f3a7c6bb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "初学/基础Markdown语法.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "基础Markdown语法 的反向链接列表"
-            }
-          },
-          {
             "id": "484178e5376ceb7a",
             "type": "leaf",
             "state": {
@@ -161,14 +142,23 @@
               "icon": "lucide-list",
               "title": "简单学习一下链接 的大纲"
             }
+          },
+          {
+            "id": "a76698f7794e59d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,15 +167,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "947f759c815afc1f",
   "lastOpenFiles": [
+    "初学/基础Markdown语法.md.baiduyun.uploading.cfg",
+    "新建 文本文档.txt.baiduyun.uploading.cfg",
     "新建 文本文档.txt",
     "初学/基础Markdown语法.md",
     "初学/().md",
-    "初学/基础Markdown语法.md.baiduyun.uploading.cfg",
     "未命名.canvas",
     "模板/表格模板.md",
     "模板",

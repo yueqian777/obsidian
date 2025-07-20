@@ -2,5 +2,6 @@
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Arial",
-  "monospaceFontFamily": "Arial"
+  "monospaceFontFamily": "Arial",
+  "baseFontSize": 22
 }
