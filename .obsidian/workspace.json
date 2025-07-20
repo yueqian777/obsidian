@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "2d5421b6a2b9215c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6fcf3243af8e55e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947f759c815afc1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "初学/基础Markdown语法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "基础Markdown语法"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f79b1ccf3fcc4e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "aafcb6355c2957bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b3da7b6c5957b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "73bf41a007ed083a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e400513d67743125",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1a9ee97022228893",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b1cd7058dd0691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a70b774f3a7c6bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "初学/基础Markdown语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "基础Markdown语法 的反向链接列表"
+            }
+          },
+          {
+            "id": "484178e5376ceb7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "初学/基础Markdown语法.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "基础Markdown语法 的出链列表"
+            }
+          },
+          {
+            "id": "3d5039dd4c287041",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "51e068cfdf55f3fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/简单学习一下链接.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "简单学习一下链接 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "947f759c815afc1f",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "初学/基础Markdown语法.md",
+    "初学/().md",
+    "初学/基础Markdown语法.md.baiduyun.uploading.cfg",
+    "未命名.canvas",
+    "模板/表格模板.md",
+    "模板",
+    "扩展阅读",
+    "日记/初学.md",
+    "初学",
+    "学习/简单学习一下链接.md",
+    "学习/欢迎.md",
+    "学习/好捏.md",
+    "日记/好捏.md",
+    "模板/日记模板.md",
+    "深度学习",
+    "日记/2025-06-23.md",
+    "模板",
+    "欢迎.md",
+    "日记",
+    "初学",
+    "新建文件夹"
+  ]
+}
