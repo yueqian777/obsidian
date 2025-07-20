@@ -134,17 +134,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/简单学习一下链接.md",
+                "file": "初学/基础Markdown语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "简单学习一下链接 的大纲"
+              "title": "基础Markdown语法 的大纲"
             }
           },
           {
-            "id": "a76698f7794e59d7",
+            "id": "84bdd509959fa835",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
