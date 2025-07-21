@@ -17,8 +17,8 @@
                 "file": "深度学习/附件/Python编程.pdf",
                 "page": 34,
                 "left": -17,
-                "top": 55,
-                "zoom": 0.8720292504570384
+                "top": 59,
+                "zoom": 0.8720292504570385
               },
               "icon": "lucide-file-text",
               "title": "Python编程"
@@ -230,10 +230,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "680fef51f965cf09",
+  "active": "eeade4746a8dbf93",
   "lastOpenFiles": [
-    "深度学习/附件/Python编程.pdf",
     "深度学习/Python.md",
+    "深度学习/附件/Python编程.pdf",
     "初学/基础Markdown语法.md",
     "深度学习/线性代数.md",
     "深度学习/附件/Python编程：从入门到实践（第2版）.pdf",
