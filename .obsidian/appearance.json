@@ -3,5 +3,9 @@
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Arial",
   "monospaceFontFamily": "Arial",
-  "baseFontSize": 22
+  "baseFontSize": 22,
+  "enabledCssSnippets": [
+    "当前高亮-1"
+  ],
+  "accentColor": "#5cb2f5"
 }
