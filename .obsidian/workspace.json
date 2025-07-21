@@ -11,9 +11,25 @@
             "id": "97c1a411284814e2",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "深度学习/附件/Python编程：从入门到实践（第2版）.pdf",
+                "page": 51,
+                "left": -19,
+                "top": 698,
+                "zoom": 0.7941176470588236
+              },
+              "icon": "lucide-file-text",
+              "title": "Python编程：从入门到实践（第2版）"
+            }
+          },
+          {
+            "id": "071541b39d63a985",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/python.md",
+                "file": "深度学习/Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +44,42 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python"
+              "title": "Python"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "4b236ddb11a1a07d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeade4746a8dbf93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习/Python.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,34 +248,37 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "97c1a411284814e2",
+  "active": "071541b39d63a985",
   "lastOpenFiles": [
+    "深度学习/线性代数.md",
+    "深度学习/未命名.md.baiduyun.uploading.cfg",
+    "深度学习/附件/线性代数 中文第5版【Gilbert Strang】.pdf.baiduyun.uploading.cfg",
+    "深度学习/附件/未命名.md.baiduyun.uploading.cfg",
     "深度学习/附件/Python编程：从入门到实践（第2版）.pdf",
+    "深度学习/附件/线性代数 中文第5版【Gilbert Strang】.pdf",
+    "深度学习/Python.md",
+    "深度学习/Python.md.baiduyun.uploading.cfg",
+    "深度学习/python.md.baiduyun.uploading.cfg",
+    "深度学习/附件/Python编程：从入门到实践（第2版）.pdf.baiduyun.uploading.cfg",
     "深度学习/附件",
     "初学/基础Markdown语法.md",
-    "深度学习/python.md",
     "初学/基础Markdown语法.md.baiduyun.uploading.cfg",
-    "新建 文本文档.txt.baiduyun.uploading.cfg",
-    "新建 文本文档.txt",
     "初学/().md",
     "未命名.canvas",
     "模板/表格模板.md",
-    "模板",
-    "扩展阅读",
     "日记/初学.md",
-    "初学",
     "学习/简单学习一下链接.md",
     "学习/欢迎.md",
     "学习/好捏.md",
     "日记/好捏.md",
     "模板/日记模板.md",
-    "深度学习",
     "日记/2025-06-23.md",
-    "模板",
-    "欢迎.md",
-    "日记"
+    "欢迎.md"
   ]
 }
