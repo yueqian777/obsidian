@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "深度学习/附件/Python编程.pdf",
-                "page": 38,
+                "page": 40,
                 "left": -16,
-                "top": 198,
+                "top": 424,
                 "zoom": 0.9776051188299818
               },
               "icon": "lucide-file-text",
@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/python/基础知识.md",
+                "file": "深度学习/python/python方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
-                  "extraContext": false,
+                  "extraContext": true,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基础知识"
+              "title": "python方法"
             }
           }
         ]
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/python/基础知识.md",
+                "file": "深度学习/python/python方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础知识 的大纲"
+              "title": "python方法 的大纲"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/python/基础知识.md",
+                "file": "深度学习/python/python方法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "基础知识 的出链列表"
+              "title": "python方法 的出链列表"
             }
           },
           {
@@ -210,7 +210,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,9 +232,10 @@
   },
   "active": "680fef51f965cf09",
   "lastOpenFiles": [
-    "深度学习/附件/Python编程.pdf",
+    "深度学习/python/Python学习大纲.md",
+    "深度学习/python/python方法.md",
     "深度学习/python/基础知识.md",
-    "深度学习/python/Python.md",
+    "深度学习/附件/Python编程.pdf",
     "深度学习/python",
     "初学/基础Markdown语法.md",
     "深度学习/线性代数.md",
