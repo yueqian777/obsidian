@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "深度学习/附件/Python编程.pdf",
-                "page": 43,
+                "page": 44,
                 "left": -10,
-                "top": 349,
+                "top": 662,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -236,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -257,10 +257,10 @@
   },
   "active": "680fef51f965cf09",
   "lastOpenFiles": [
-    "初学/基础Markdown语法.md",
-    "深度学习/python/基础知识.md",
-    "深度学习/python/python方法.md",
     "深度学习/附件/Python编程.pdf",
+    "深度学习/python/基础知识.md",
+    "初学/基础Markdown语法.md",
+    "深度学习/python/python方法.md",
     "深度学习/python/Python学习大纲.md",
     "深度学习/python",
     "深度学习/线性代数.md",
