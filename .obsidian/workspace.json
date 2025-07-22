@@ -16,7 +16,7 @@
               "state": {
                 "file": "深度学习/附件/Python编程.pdf",
                 "page": 44,
-                "left": -10,
+                "left": -47,
                 "top": 662,
                 "zoom": 1
               },
@@ -240,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
