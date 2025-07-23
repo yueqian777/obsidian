@@ -82,7 +82,7 @@
     "Difinition": "#3bd327",
     "Warning": "#ea5252"
   },
-  "defaultColor": "Difinition",
+  "defaultColor": "Note",
   "defaultColorPaletteItemIndex": 0,
   "syncColorPaletteItem": true,
   "syncDefaultColorPaletteItem": false,

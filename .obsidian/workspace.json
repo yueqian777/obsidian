@@ -9,19 +9,19 @@
         "dimension": 50.18703241895261,
         "children": [
           {
-            "id": "eeade4746a8dbf93",
+            "id": "c2c3fcb16b486bf4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "深度学习/附件/Python编程.pdf",
-                "page": 53,
-                "left": -14,
-                "top": 216,
-                "zoom": 1.1147166361974408
+                "file": "扩展阅读/心/附件/自控力.pdf",
+                "page": 25,
+                "left": 30,
+                "top": 143,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
-              "title": "Python编程"
+              "title": "自控力"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/python/python方法.md",
+                "file": "扩展阅读/心/自控力.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,35 +101,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python方法"
-            }
-          },
-          {
-            "id": "c2c3fcb16b486bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "扩展阅读/心/未命名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "自控力"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -305,24 +281,24 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a0b3da7b6c5957b0",
+  "active": "e9739ef82c70de0b",
   "lastOpenFiles": [
-    "扩展阅读/心/附件/自控力.epub",
-    "扩展阅读/心/附件",
+    "深度学习/附件/Python编程.pdf",
+    "扩展阅读/心/附件/当下的力量.pdf",
+    "扩展阅读/心/自控力.md",
+    "扩展阅读/心/附件/当下的力量.pdf.crdownload",
+    "扩展阅读/心/附件/自控力.pdf",
+    "初学/基础Markdown语法.md",
+    "扩展阅读/心/自控力.md.baiduyun.uploading.cfg",
+    "扩展阅读/心/附件/自控力.pdf.baiduyun.uploading.cfg",
+    "扩展阅读/心/附件/jijf9-56xa3.pdf.baiduyun.uploading.cfg",
+    "扩展阅读/心/附件/jijf9-56xa3.pdf.crdownload",
+    "扩展阅读/心/附件/自控力 3.epub.baiduyun.uploading.cfg",
     "扩展阅读/心/未命名.md.baiduyun.uploading.cfg",
-    "扩展阅读/心/未命名.md",
-    "扩展阅读/自控力.epub.baiduyun.uploading.cfg",
-    "扩展阅读/自控力.epub",
-    "扩展阅读/心/自控力.epub.baiduyun.uploading.cfg",
-    "扩展阅读/心/自控力.epub",
-    "扩展阅读/心",
+    "扩展阅读/心/附件/自控力 3.epub",
     "深度学习/python/python方法.md",
-    "深度学习/python/基础知识.md.baiduyun.uploading.cfg",
-    "深度学习/python/python方法.md.baiduyun.uploading.cfg",
-    "深度学习/python/Python学习大纲.md.baiduyun.uploading.cfg",
     "深度学习/python/基础知识.md",
     "C++/基础知识.md",
-    "初学/基础Markdown语法.md",
     "深度学习/python/Python学习大纲.md",
     "深度学习/线性代数.md",
     "初学/().md",
