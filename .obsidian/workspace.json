@@ -103,9 +103,33 @@
               "icon": "lucide-file",
               "title": "python方法"
             }
+          },
+          {
+            "id": "c2c3fcb16b486bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扩展阅读/心/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,24 +307,24 @@
   },
   "active": "a0b3da7b6c5957b0",
   "lastOpenFiles": [
+    "扩展阅读/心/附件/自控力.epub",
+    "扩展阅读/心/附件",
+    "扩展阅读/心/未命名.md.baiduyun.uploading.cfg",
+    "扩展阅读/心/未命名.md",
+    "扩展阅读/自控力.epub.baiduyun.uploading.cfg",
+    "扩展阅读/自控力.epub",
+    "扩展阅读/心/自控力.epub.baiduyun.uploading.cfg",
+    "扩展阅读/心/自控力.epub",
     "扩展阅读/心",
     "深度学习/python/python方法.md",
-    "深度学习/python/未命名.md",
     "深度学习/python/基础知识.md.baiduyun.uploading.cfg",
     "深度学习/python/python方法.md.baiduyun.uploading.cfg",
     "深度学习/python/Python学习大纲.md.baiduyun.uploading.cfg",
-    "C++/基础知识.md.baiduyun.uploading.cfg",
     "深度学习/python/基础知识.md",
-    "深度学习/附件/Python编程.pdf",
     "C++/基础知识.md",
-    "C++",
     "初学/基础Markdown语法.md",
     "深度学习/python/Python学习大纲.md",
-    "深度学习/python",
     "深度学习/线性代数.md",
-    "深度学习/附件/Python编程：从入门到实践（第2版）.pdf",
-    "深度学习/线性代数.md.baiduyun.uploading.cfg",
-    "深度学习/未命名.md.baiduyun.uploading.cfg",
     "初学/().md",
     "未命名.canvas",
     "模板/表格模板.md",
