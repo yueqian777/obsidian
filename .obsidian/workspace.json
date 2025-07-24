@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ba323ecf21e308d9",
+        "id": "4ec793cdc80f4b40",
         "type": "tabs",
         "children": [
           {
-            "id": "8e97706cffac26a1",
+            "id": "86915e4b0739ad6f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "深度学习/附件/Python编程.pdf",
-                "page": 55,
+                "file": "深度学习/附件/线性代数 中文第5版【Gilbert Strang】.pdf",
+                "page": 3,
                 "left": -17,
-                "top": 441,
-                "zoom": 0.9320175438596491
+                "top": 480,
+                "zoom": 0.9120171673819742
               },
               "icon": "lucide-file-text",
-              "title": "Python编程"
+              "title": "线性代数 中文第5版【Gilbert Strang】"
             }
           }
         ]
@@ -51,30 +51,6 @@
               },
               "icon": "lucide-file",
               "title": "基础知识"
-            }
-          },
-          {
-            "id": "86915e4b0739ad6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "深度学习/python/python方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "python方法"
             }
           }
         ]
@@ -253,15 +229,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8e97706cffac26a1",
+  "active": "86915e4b0739ad6f",
   "lastOpenFiles": [
+    "深度学习/线性代数.md",
     "深度学习/python/基础知识.md",
+    "深度学习/python/python方法.md",
+    "深度学习/附件/Python编程.pdf",
     "深度学习/python/基础知识.md.baiduyun.uploading.cfg",
     "深度学习/python/python方法.md.baiduyun.uploading.cfg",
     "扩展阅读/心/附件/当下的力量.pdf.baiduyun.uploading.cfg",
     "扩展阅读/心/自控力.md.baiduyun.uploading.cfg",
-    "深度学习/附件/Python编程.pdf",
-    "深度学习/python/python方法.md",
     "扩展阅读/心/自控力.md",
     "扩展阅读/心/附件/自控力.pdf",
     "扩展阅读/心/附件/山竹对眼好（下面的眼）PT27.19S.webp",
@@ -275,7 +252,6 @@
     "扩展阅读/心/附件/jijf9-56xa3.pdf.baiduyun.uploading.cfg",
     "C++/基础知识.md",
     "深度学习/python/Python学习大纲.md",
-    "深度学习/线性代数.md",
     "初学/().md",
     "未命名.canvas",
     "模板/表格模板.md",
