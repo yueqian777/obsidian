@@ -15,8 +15,8 @@
               "state": {
                 "file": "深度学习/附件/Python编程.pdf",
                 "page": 59,
-                "left": 52,
-                "top": 112,
+                "left": 48,
+                "top": 16,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/python/python基础知识.md",
+                "file": "深度学习/python/python函数方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -74,7 +74,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python基础知识"
+              "title": "python函数方法"
             }
           }
         ],
@@ -256,9 +256,10 @@
   },
   "active": "a2eed8dd3777b693",
   "lastOpenFiles": [
-    "深度学习/python/python函数方法.md",
     "深度学习/python/python基础知识.md",
     "深度学习/附件/Python编程.pdf",
+    "深度学习/python/python函数方法.md",
+    "深度学习/线性代数.md",
     "深度学习/python/python基础知识.md.baiduyun.uploading.cfg",
     "深度学习/python/python函数方法.md.baiduyun.uploading.cfg",
     "深度学习/python/Python学习大纲.md",
@@ -267,7 +268,6 @@
     "C++/cpp基础知识.md.baiduyun.uploading.cfg",
     "C++/cpp基础知识.md",
     "深度学习/附件/线性代数 中文第5版【Gilbert Strang】.pdf",
-    "深度学习/线性代数.md",
     "深度学习/python/基础知识.md.baiduyun.uploading.cfg",
     "扩展阅读/心/附件/当下的力量.pdf.baiduyun.uploading.cfg",
     "扩展阅读/心/自控力.md.baiduyun.uploading.cfg",
