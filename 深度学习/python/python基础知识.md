@@ -216,6 +216,9 @@ print(popped_motorcycles)
 ==pop函数类似于在一个列表中抽出了一个元素，可以用pop函数将该组元素赋值给变量，也可单独使用pop函数但该数据已经不存在于列表之中==
 
 ## 组织列表
+
+^6b65d8
+
 ### 给列表元素排序的[[python函数方法|方法]]
 **使用方法sort永久性修改**
 > [!PDF|note] [[Python编程.pdf#page=58&selection=117,0,122,14&color=note|Python编程, p.39]]
@@ -240,5 +243,13 @@ print(cars)
 > [!PDF|warning] [[Python编程.pdf#page=59&selection=86,0,88,18&color=warning|Python编程, p.40]]
 > > 在并非所有的值都是小写时，按字母顺序排列列表要复杂些。决定排列顺序时，有多种解读大写字母的方式，要指定准确的排列顺序，可能比我们这里所做的要复杂。然而， 大多数排序方式都基于本节介绍的知识。
 
+### 反转列表顺序的[[python函数方法|方法]]
+> [!PDF|note] [[Python编程.pdf#page=60&selection=31,0,33,0&color=note|Python编程, p.41]]
+> > 要反转列表元素的排列顺序，可使用方法reverse()
+> > list.reverse()
 
-
+### 确定列表长度的[[python函数方法|方法]]
+> [!PDF|note] [[Python编程.pdf#page=60&selection=60,0,79,1&color=note|Python编程, p.41]]
+> > 使用函数len()可快速获悉列表的长度。在下面的示例中，列表包含4个元素，因此其长度为4： 
+>>> cars = ['bmw', 'audi', 'toyota', 'subaru']
+>>> len(cars) 4
