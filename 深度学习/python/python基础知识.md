@@ -24,6 +24,16 @@
 
 > [!PDF|difinition] [[Python编程.pdf#page=37&selection=60,0,67,7&color=difinition|Python编程, p.18]]
 > > 字符串就是一系列字符。在Python中，用引号括起的都是字符串，其中的引号可以是单引号， 也可以是双引号
+> > 在python3版本中，还存在f-string即格式化字符串，可以在字符串中直接使用被大括号包裹的变量,并且无需加号
+> > 
+> > > [!example] 举例
+> > > ```python
+> > > first_name="ada"
+> > > last_name="lovelace"
+> > > full_name=f"{first_name}{last_name}
+> > > message=f"Hello, {full_name.title()}!"
+> > > ```
+
 
 ## 修改字符串的大小写
 ```python
@@ -36,7 +46,7 @@ print(name.title())
 > > [!PDF|difinition] 方法
 > > 方法是Python可对数据执行的操作。
 
-关于大小写的[[python方法|方法]] ^2989d7
+关于大小写的[[python函数方法|方法]] ^2989d7
 - title()可以使单词的首字母大写
 - upper()可以使单词全部字母大写
 - lower()可以使单词全部字母小写
@@ -58,7 +68,7 @@ print(message)
 
 - 字符串中的空白可以由Tab或space添加
 - 与cpp相同，在字符串中可以用\n换行，\t制表
-关于消除空白的[[python方法|方法]]
+关于消除空白的[[python函数方法|方法]]
 - rstrip()可以暂时删除字符串末尾多余的空白，但没有改变变量中储存的字符串本身 (right strip)
 - lstrip()可以暂时删除字符串开头的空白（left strip)
 - strip()可以暂时删除字符串开头和末尾的空白(strip v. 剥离)
@@ -89,6 +99,9 @@ print(message)
 > > 会无法识别字符串内容
 
 # 数字
+
+^821db4
+
 ## 整数
 - + 加
 - - 减
@@ -116,10 +129,13 @@ print(message)
 在Python中，注释用井号标识。
 
 # 列表
+
+^2d1573
+
 > [!PDF|difinition] [[Python编程.pdf#page=50&selection=44,0,45,17&color=difinition|Python编程, p.31]]
 > > 列表由一系列按特定顺序排列的元素组成。
 
-可以类比于cpp的[[C++/基础知识#^a8f541|数组]]
+可以类比于cpp的[[cpp基础知识#^a8f541|数组]]
 
 > [!PDF|note] [[Python编程.pdf#page=50&selection=58,0,62,20&color=note|Python编程, p.31]]
 > > 在Python中，用方括号（[ ]）来表示列表，并用逗号来分隔其中的元素。
@@ -148,7 +164,7 @@ print(message)
 ### 修改列表元素
 修改列表元素即为把该列表当作一个变量即可，可以自由进行赋值和修改
 
-### 添加列表元素的[[python方法|方法]]
+### 添加列表元素的[[python函数方法|方法]]
 
 ^47241e
 
@@ -162,7 +178,7 @@ print(message)
 > > > motorcycles = ['honda', 'yamaha', 'suzuki'] motorcycles.insert(0, 'ducati') 
 > > > ```
 
-### 删除列表元素的[[python方法|方法]]
+### 删除列表元素的[[python函数方法|方法]]
 
 ^f74a6d
 
@@ -198,6 +214,31 @@ print(popped_motorcycles)
 > > 实际上，你可以使用pop()来删除列表中任何位置的元素，只需在括号中指定要删除的元素的索引即可。
 
 ==pop函数类似于在一个列表中抽出了一个元素，可以用pop函数将该组元素赋值给变量，也可单独使用pop函数但该数据已经不存在于列表之中==
+
+## 组织列表
+### 给列表元素排序的[[python函数方法|方法]]
+**使用方法sort永久性修改**
+> [!PDF|note] [[Python编程.pdf#page=58&selection=117,0,122,14&color=note|Python编程, p.39]]
+> > 方法sort()永久性地修改了列表元素的排列顺序。现在，汽车是按字母顺序排列的， 再也无法恢复到原来的排列顺序
+> > > [!PDF|note] [[Python编程.pdf#page=58&selection=126,1,131,0&color=note|Python编程, p.39]]
+> > > 还可以按与字母顺序相反的顺序排列列表元素，为此，只需向sort()方法传递参数 reverse=True
+
+==永久指的是列表的新顺序已经被保存，并非无法继续修改==
+```python
+cars=['bmw', 'audi', 'toyota', 'subaru']
+cars.sort()
+print(cars)
+cars.sort(reverse=True)
+print(cars)
+------------------------------------------------------------------------------------------------
+>>> ['audi', 'bmw', 'subaru', 'toyota']
+>>> ['toyota', 'subaru', 'bmw', 'audi']
+```
+
+**使用方法sorted()对列表进行临时排序**
+方法sorted()的使用与sort几乎完全一致，但sorted()不改变列表的实际顺序，只能通过sorted(list)的方式进行使用
+> [!PDF|warning] [[Python编程.pdf#page=59&selection=86,0,88,18&color=warning|Python编程, p.40]]
+> > 在并非所有的值都是小写时，按字母顺序排列列表要复杂些。决定排列顺序时，有多种解读大写字母的方式，要指定准确的排列顺序，可能比我们这里所做的要复杂。然而， 大多数排序方式都基于本节介绍的知识。
 
 
 
