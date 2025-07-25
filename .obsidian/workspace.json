@@ -15,9 +15,9 @@
               "state": {
                 "file": "深度学习/附件/Python编程.pdf",
                 "page": 59,
-                "left": 48,
-                "top": 16,
-                "zoom": 1.5
+                "left": -13,
+                "top": 24,
+                "zoom": 1.1650219298245614
               },
               "icon": "lucide-file-text",
               "title": "Python编程"
@@ -254,7 +254,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a2eed8dd3777b693",
+  "active": "680fef51f965cf09",
   "lastOpenFiles": [
     "深度学习/python/python基础知识.md",
     "深度学习/附件/Python编程.pdf",
