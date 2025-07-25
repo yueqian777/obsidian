@@ -15,9 +15,9 @@
               "state": {
                 "file": "深度学习/附件/Python编程.pdf",
                 "page": 59,
-                "left": -13,
+                "left": -14,
                 "top": 24,
-                "zoom": 1.1650219298245614
+                "zoom": 1.1654478976234006
               },
               "icon": "lucide-file-text",
               "title": "Python编程"
@@ -77,8 +77,7 @@
               "title": "python函数方法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,11 +253,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "680fef51f965cf09",
+  "active": "a46fe9181633e34c",
   "lastOpenFiles": [
+    "深度学习/python/python函数方法.md",
     "深度学习/python/python基础知识.md",
     "深度学习/附件/Python编程.pdf",
-    "深度学习/python/python函数方法.md",
     "深度学习/线性代数.md",
     "深度学习/python/python基础知识.md.baiduyun.uploading.cfg",
     "深度学习/python/python函数方法.md.baiduyun.uploading.cfg",

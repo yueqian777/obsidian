@@ -248,7 +248,7 @@ print(cars)
 > > 要反转列表元素的排列顺序，可使用方法reverse()
 > > list.reverse()
 
-### 确定列表长度的[[python函数方法|方法]]
+### 确定列表长度的[[python函数方法|函数]]
 > [!PDF|note] [[Python编程.pdf#page=60&selection=60,0,79,1&color=note|Python编程, p.41]]
 > > 使用函数len()可快速获悉列表的长度。在下面的示例中，列表包含4个元素，因此其长度为4： 
 >>> cars = ['bmw', 'audi', 'toyota', 'subaru']
